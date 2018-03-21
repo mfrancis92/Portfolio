@@ -1,0 +1,19 @@
+img {
+	/*30% of the body*/
+	width: 30%;
+	/*Adds Custom Spacing*/
+	float: left;
+	/*Moving elemants where you want them*/
+	margin: 1.66%;
+}
+
+p {
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 35%;
+	padding-bottom: 15px;
+}
